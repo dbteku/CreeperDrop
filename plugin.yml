@@ -1,0 +1,5 @@
+name: ExplosionHandler
+version: 1.0.0
+description: Handle explosions in MC
+api-version: 1.13
+main: com.dbteku.eh.main.ExplosionHandler
