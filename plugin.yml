@@ -1,5 +1,5 @@
-name: ExplosionHandler
+name: CreeperDrop
 version: 1.0.0
 description: Handle explosions in MC
 api-version: 1.13
-main: com.dbteku.eh.main.ExplosionHandler
+main: com.dbteku.creeperdrop.main.ExplosionHandler

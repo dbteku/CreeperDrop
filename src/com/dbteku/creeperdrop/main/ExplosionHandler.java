@@ -1,8 +1,8 @@
-package com.dbteku.eh.main;
+package com.dbteku.creeperdrop.main;
 
 import org.bukkit.plugin.java.JavaPlugin;
 
-import com.dbteku.eh.handlers.EntityExplodeHandler;
+import com.dbteku.creeperdrop.handlers.EntityExplodeHandler;
 
 public class ExplosionHandler extends JavaPlugin{
 	
